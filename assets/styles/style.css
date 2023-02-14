@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif; 
+}
+
+body {
+    min-height: 100vh;
+}
+
+header {
+min-height: 8vh;
+
+}
+
+nav a {
+    min-height: 5vh;
+    display: block;
+}
+
+main {
+    min-height: 87vh;
+}
+
+.titulo_header {
+    font-size: 100px;
+    position: relative;
+    top:-1200px;
+    text-align: left;
+}
+
+h2 {
+    background-color: black;
+    color: white
+  
+}
+
+#logo {
+    display: inline-block;
+    
+}
+
+.actividades {
+    transform: translateX(2rem);
+}
