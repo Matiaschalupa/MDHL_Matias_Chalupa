@@ -1,0 +1,36 @@
+body {
+    background-color: aqua;
+}
+
+table {
+    padding: 3px;
+    
+}
+
+tr {
+    padding: 3 px;
+   
+}
+
+th {
+    padding: 3px;
+   
+}
+
+td {
+    padding: 3 px;
+    
+}
+
+#phone {
+text-align: left;
+
+}
+
+#email {
+    text-align: center;
+}
+
+.container {
+    display: flex-direction: column;
+}
