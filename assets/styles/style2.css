@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif; 
+}
+
+body {
+    min-height: 100vh;
+    background-color: yellowgreen;
+}
+
+header {
+min-height: 8vh;
+color: blue;
+
+}
+
+nav a {
+    min-height: 5vh;
+    display: block;
+    margin: 200px;
+}
+
+a:hover {
+     color: rgb(17, 235, 93);
+     background-color: blue;
+   
+}
+
+main {
+    min-height: 87vh;
+}
+
+.titulo_header {
+    font-size: 100px;
+    position: relative;
+    top:-1200px;
+    text-align: left;
+}
+
+h2 {
+    background-color: black;
+    color: white
+  
+}
+
+h2:hover {
+    transform:scale(1,2);
+}
+
+ 
+.actividades {
+    transform: translateX(2rem);
+}
+
